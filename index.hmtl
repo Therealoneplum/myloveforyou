@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>For You, My Tatlı 💕</title>
+<style>
+  body { background: linear-gradient(to bottom right, pink, purple, blue, huntergreen); font-family: Arial, sans-serif; color:white; text-align:center; margin:0; padding:0; }
+  h1 { font-size:2.5em; margin-top:30px; }
+  a { display:block; margin:20px auto; font-size:1.5em; color:pink; text-decoration:underline; }
+</style>
+</head>
+<body>
+
+<h1>For You, My Tatlı 💕</h1>
+
+<a href="reasons.html">💖 Reasons I Love You</a>
+<a href="songs.html">🎵 Your Favorite Songs</a>
+<a href="voice.html">🎤 My Voice Note</a>
+
+</body>
+</html>
+
+  
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reasons I Love You 💖</title>
+<style>
+  body { background-color: #800080; font-family: Arial, sans-serif; color:white; text-align:center; margin:0; padding:0; }
+  h1 { font-size:2em; margin-top:30px; }
+  .section { max-width:600px; margin:30px auto; padding:20px; background-color:rgba(0,0,0,0.5); border:3px solid pink; border-radius:20px; text-align:left; }
+  ul { line-height:1.6em; padding-left:20px; }
+  a { display:block; margin-top:20px; color:pink; text-decoration:underline; font-size:1.2em; text-align:center; }
+  @media(max-width:600px){ h1{font-size:1.5em;} .section{padding:15px;margin:15px;} }
+</style>
+</head>
+<body>
+
+<h1>Reasons I Love You 💖</h1>
+
+<div class="section">
+  <ul>
+    <li>Your eyes ✨</li>
+    <li>Your personality 💛</li>
+    <li>The way you talk to me 💬</li>
+    <li>The way you sing 🎶</li>
+    <li>Your interests 📚</li>
+    <li>I love everything about you 💕</li>
+    <li>And I’ll always support you no matter what ❤️</li>
+  </ul>
+</div>
+
+<a href="index.html">⬅ Back to Main Page</a>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Voice Note 💕</title>
+<style>
+  body { background-color:#ff69b4; font-family: Arial, sans-serif; color:white; text-align:center; margin:0; padding:0; }
+  h1 { font-size:2em; margin-top:30px; }
+  audio { width:400px; margin-top:50px; }
+  a { display:block; margin-top:30px; color:pink; text-decoration:underline; font-size:1.2em; }
+  @media(max-width:600px){ audio{width:90%;} h1{font-size:1.5em;} a{font-size:1em;} }
+</style>
+</head>
+<body>
+
+<h1>🎤 My Voice Note for You 💕</h1>
+<audio controls autoplay>
+  <source src="mp3/voice.mp3" type="audio/mpeg">
+</audio>
+
+<a href="index.html">⬅ Back to Main Page</a>
+
+</body>
+</html>
+
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Favorite Songs 🎵</title>
+<style>
+  body { background: linear-gradient(to bottom right, pink, purple, blue, huntergreen); font-family:Arial,sans-serif; color:white; text-align:center; margin:0; padding:0; }
+  h1 { font-size:2em; margin-top:30px; }
+  ul { list-style:none; padding:0; font-size:1.5em; }
+  li { margin:15px 0; }
+  a { color:pink; text-decoration:underline; cursor:pointer; }
+</style>
+</head>
+<body>
+
+<h1>🎵 Your Favorite Songs 🎵</h1>
+<ul>
+  <li><a href="chop_suey.html">Chop Suey</a></li>
+  <li><a href="spiders.html">Spiders</a></li>
+  <li><a href="mockingbird.html">Mockingbird</a></li>
+  <li><a href="stan.html">Stan</a></li>
+  <li><a href="snowman.html">Snowman</a></li>
+</ul>
+
+<a href="index.html">⬅ Back to Main Page</a>
+
+</body>
+</html>
+
+
+  
